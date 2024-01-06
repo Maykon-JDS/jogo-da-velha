@@ -32,11 +32,13 @@ Este projeto é uma ótima oportunidade para estudantes de programação aprende
 ## Como Executar?
 
 Para a execução do jogo é necessário realizar alguns passos, que são:
-1. [Instalar o Git.](https://www.youtube.com/watch?v=EgFzXDhsn8M)
-2. [Clonar o repositório do projeto.](https://www.youtube.com/watch?v=O70_VLHgW1c)
-3. [Instalar o compilador GCC.](https://www.youtube.com/watch?v=MjEIZd3DNts)
-4. [Adicionar uma variável de ambiente do sistema com o caminho para o compilador GCC.](https://www.youtube.com/watch?v=MjEIZd3DNts)
-5. [Abrir o CMD/PowerShell dentro do diretório do projeto.](https://www.youtube.com/watch?v=2yHWT7rDmB0)
-6. [Executar o comando para compilar o código.](https://www.youtube.com/watch?v=2yHWT7rDmB0)
-7. [Iniciar o executável e ser feliz 😁](https://www.youtube.com/watch?v=2yHWT7rDmB0)
+1. Instalar o Git.
+2. Clonar o repositório do projeto.
+3. Instalar o compilador GCC.
+4. Adicionar uma variável de ambiente do sistema com o caminho para o compilador GCC.
+5. Abrir o CMD/PowerShell dentro do diretório do projeto.
+6. Executar o comando para compilar o código.
+7. Iniciar o executável e ser feliz 😁
+
+Link do vídeo mostrando todos os passos: [https://www.youtube.com/watch?v=IlkBHsDWmaY](https://www.youtube.com/watch?v=IlkBHsDWmaY)
 
